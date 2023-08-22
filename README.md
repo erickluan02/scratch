@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/erickluan02/scratch?style=flat)
 
-![]()
+![scratch](https://github.com/erickluan02/scratch/blob/main/assets/icons/scratch.png)
 
 # scratch
 Introduçâo a lógica de programação com o Scratch
