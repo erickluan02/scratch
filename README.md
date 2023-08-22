@@ -6,3 +6,6 @@
 Introduçâo a lógica de programação com o Scratch
 ## Autor
 Erick Luan 
+
+## Projetos 
+[Calculo da média](https://scratch.mit.edu/projects/881964840/)
