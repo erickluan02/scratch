@@ -9,3 +9,4 @@ Erick Luan
 
 ## Projetos 
 [Calculo da média](https://scratch.mit.edu/projects/881964840/)
+[conversão de temperatura](https://scratch.mit.edu/projects/882607736/)
