@@ -8,5 +8,5 @@ Introduçâo a lógica de programação com o Scratch
 Erick Luan 
 
 ## Projetos 
-[Calculo da média](https://scratch.mit.edu/projects/881964840/)
-[conversão de temperatura](https://scratch.mit.edu/projects/882607736/)
+- [Calculo da média](https://scratch.mit.edu/projects/881964840/)
+- [conversão de temperatura](https://scratch.mit.edu/projects/882607736/)
