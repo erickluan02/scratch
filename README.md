@@ -10,3 +10,7 @@ Erick Luan
 ## Projetos 
 - [Calculo da média](https://scratch.mit.edu/projects/881964840/)
 - [conversão de temperatura](https://scratch.mit.edu/projects/882607736/)
+- [regra de 3](https://scratch.mit.edu/projects/882638065/)
+- [PDV](https://scratch.mit.edu/projects/883243921/)
+- [conversor de peso](https://scratch.mit.edu/projects/884622939/)
+- [custo X venda](https://scratch.mit.edu/projects/884627784/)
