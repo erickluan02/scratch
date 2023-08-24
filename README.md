@@ -14,6 +14,8 @@ Erick Luan
 - [PDV](https://scratch.mit.edu/projects/883243921/)
 - [conversor de peso](https://scratch.mit.edu/projects/884622939/)
 - [custo X venda](https://scratch.mit.edu/projects/884627784/)
+- [Cálculo velocidade](https://scratch.mit.edu/projects/885343226/)
+- [Cálculo serviço](https://scratch.mit.edu/projects/885318629/)
 
 GitHub Certificados 
 
