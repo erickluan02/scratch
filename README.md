@@ -20,6 +20,7 @@ Erick Luan
 - [AND](https://scratch.mit.edu/projects/888053970/)
 - [OR](https://scratch.mit.edu/projects/888070398/)
 - [NOT](https://scratch.mit.edu/projects/888075108/)
+- [Dólar para Real](https://scratch.mit.edu/projects/888437555/)
 
 
 GitHub Certificados 
