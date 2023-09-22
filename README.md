@@ -20,8 +20,8 @@ Erick Luan
 - [AND](https://scratch.mit.edu/projects/888053970/)
 - [OR](https://scratch.mit.edu/projects/888070398/)
 - [NOT](https://scratch.mit.edu/projects/888075108/)
-- [Space Invaders](https://scratch.mit.edu/projects/896357290/)
 - [Dólar para Real](https://scratch.mit.edu/projects/888437555/)
+- [Space Invaders](https://scratch.mit.edu/projects/896357290/)
 
 
 GitHub Certificados 
